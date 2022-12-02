@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theohogberg
 - I used to be a code-monkey and now I work as a DevOps consultant.
-- Still accepting bananas though.
+- Still accepting bananas.
 - 🍌 Buy me a banana! 
 - https://www.buymeacoffee.com/theohogberg
 <hr>
