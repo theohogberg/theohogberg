@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theohogberg
 - Still a code monkey.
-- 🍌 Buy monkey a coffee!
+- 🍌 Buy monkey a banana!
 - https://www.buymeacoffee.com/theohogberg
 <hr>
 <p align="center">
