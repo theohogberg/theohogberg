@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @theohogberg
-- I used to be a code-monkey and now I work as a DevOps consultant.
-- Still accepting bananas though.
-- 🍌 Buy me a banana! 
+- Still a code monkey.
+- 🍌 Buy monkey a coffee!
 - https://www.buymeacoffee.com/theohogberg
 <hr>
 <p align="center">
